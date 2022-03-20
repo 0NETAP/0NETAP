@@ -1,5 +1,3 @@
-Hey im a skid and i like doing random projects that make me feel like a hacker even though im not it still it fun. 
+##Hello welcome to my github
 
-Everything uploaded to my GitHub is either a Repost or self made.
-
-Also everything can be used maliciously IN the users decision. 
+Im gian/guap what ever you know me as and im from Dallas Texas. Ive been expermenting with coding for sometime now ever since ive been playing Garrys mod on steam. Ive owned about 4 servers on Garrys mod and i have tinkerd a little bit with LUA not enough to understand it though. After Garrys mod i took a break from coding and started to play valorant. Now i i came back only to browse though github and use useful tools and share those tools with people for education purposes.
